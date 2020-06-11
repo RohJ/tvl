@@ -8623,8 +8623,8 @@ button.swiper-pagination-bullet {
 }
 
 .section-swiper-absoulte .section-swiper-content {
-	padding-top: 70px;
-	padding-bottom: 70px;
+	padding-top: 150px;
+	padding-bottom: 150px;
 }
 
 .section-swiper-absoulte .section-swiper-content > *:not(.video-link-wrapper):not(.section-swiper-content-overlay) {
@@ -12273,6 +12273,7 @@ html:not(.ie-11):not(.ios) .parallax-disabled {
 
 * + .video-link-wrapper {
 	margin-top: 20px;
+	bottom: 30px;
 }
 
 @media (min-width: 1200px) {
