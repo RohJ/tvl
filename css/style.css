@@ -12919,8 +12919,8 @@ html:not(.ie-11):not(.ios) .parallax-disabled {
 	margin-right: 10px;
 	float: none;
 	display: inline-block;
-	width: 80px !important;
-	height: 80px !important;
+	width: 10px !important;
+/*	height: 80px !important;	*/
 	border-radius: 50%;
 	overflow: hidden;
 	opacity: .5;
